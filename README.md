@@ -1,1 +1,1 @@
-# the-box-of-truth
+# baritone map aura bot
